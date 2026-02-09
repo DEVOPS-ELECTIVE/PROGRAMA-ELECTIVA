@@ -1,0 +1,6 @@
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.csproj.AssemblyReference.cache
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.AssemblyInfoInputs.cache
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.AssemblyInfo.cs
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.csproj.CoreCompileInputs.cache
+C:\Electiva 2\Restaurant\Restaurant.data\obj\Debug\net8.0\Restaurant.Data.sourcelink.json
