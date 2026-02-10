@@ -31,7 +31,7 @@ const Login = () => {
         <div className="login-container">
             <div className="login-card">
                 <div className="login-header">
-                    <h2>Bienvenido/a - Välkommen</h2> 
+                    <h2>Välkommen</h2> 
                     <p className="subtitle">Inicia sesión en FoodBook Pro</p>
                 </div>
 
